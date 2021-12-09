@@ -1,6 +1,3 @@
-# imi_mobil
-Gróf Túruczi Balázs az urulógusnál:    Réveteg szemmel bámulok a végtelenbe \ Közben alatomosan behatolnak a végbelembe \ Összefostam magam , szaros lett a bokám \ Mostmár tudom hogy átfér a teve a tű fokán
-
 - ConstraintLayout használata (1p)
 - DataBinding használata (1p)
 - Fragmentek használata (1p)
